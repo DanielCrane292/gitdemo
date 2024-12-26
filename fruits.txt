@@ -1,3 +1,8 @@
 apple
 banana
+<<<<<<< HEAD
 stawberry
+=======
+strawberry
+lemon
+>>>>>>> dev2
